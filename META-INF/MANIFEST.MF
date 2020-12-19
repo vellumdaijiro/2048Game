@@ -1,4 +1,0 @@
-Manifest-Version: 1.0
-Class-Path: H:\Documents\project\Java\2048\src
-Main-Class: Game
-
